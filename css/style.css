@@ -878,7 +878,6 @@ header .contacts {
 }
 
 .checkbox-input {
-  /* visibility: hidden; */
   display: none;
 }
 
@@ -892,10 +891,6 @@ header .contacts {
   justify-content: center;
   align-items: center;
 }
-
-/* .agree{
-  letter-spacing: inherit;
-} */
 
 .modal-icon-check {
   fill: #ffffff;
